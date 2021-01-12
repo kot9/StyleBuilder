@@ -1,0 +1,11 @@
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\bin\Debug\netcoreapp2.1\StyleBuilder.deps.json
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\bin\Debug\netcoreapp2.1\StyleBuilder.runtimeconfig.json
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\bin\Debug\netcoreapp2.1\StyleBuilder.runtimeconfig.dev.json
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\bin\Debug\netcoreapp2.1\StyleBuilder.dll
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\bin\Debug\netcoreapp2.1\StyleBuilder.pdb
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\obj\Debug\netcoreapp2.1\StyleBuilder.csprojAssemblyReference.cache
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\obj\Debug\netcoreapp2.1\StyleBuilder.csproj.CoreCompileInputs.cache
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\obj\Debug\netcoreapp2.1\StyleBuilder.AssemblyInfoInputs.cache
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\obj\Debug\netcoreapp2.1\StyleBuilder.AssemblyInfo.cs
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\obj\Debug\netcoreapp2.1\StyleBuilder.dll
+D:\work\dotnet_play\StyleBuilder\StyleBuilder\obj\Debug\netcoreapp2.1\StyleBuilder.pdb

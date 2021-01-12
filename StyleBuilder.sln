@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StyleBuilder", "StyleBuilder\StyleBuilder.csproj", "{7FA73814-1336-44C0-9AB7-32C6EB8E75FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StyleBuilder.Tests", "StyleBuilder.Tests\StyleBuilder.Tests.csproj", "{53CCB34A-392F-4FD0-8BA3-FE59FF3DE7DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA73814-1336-44C0-9AB7-32C6EB8E75FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA73814-1336-44C0-9AB7-32C6EB8E75FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA73814-1336-44C0-9AB7-32C6EB8E75FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA73814-1336-44C0-9AB7-32C6EB8E75FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CCB34A-392F-4FD0-8BA3-FE59FF3DE7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CCB34A-392F-4FD0-8BA3-FE59FF3DE7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CCB34A-392F-4FD0-8BA3-FE59FF3DE7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CCB34A-392F-4FD0-8BA3-FE59FF3DE7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

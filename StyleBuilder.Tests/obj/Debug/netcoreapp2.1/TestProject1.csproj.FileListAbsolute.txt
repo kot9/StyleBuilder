@@ -1,0 +1,17 @@
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.deps.json
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.runtimeconfig.json
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.runtimeconfig.dev.json
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.dll
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.pdb
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\work\dotnet_play\ConsoleApp1\TestProject1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\work\dotnet_play\ConsoleApp1\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.csprojAssemblyReference.cache
+D:\work\dotnet_play\ConsoleApp1\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.csproj.CoreCompileInputs.cache
+D:\work\dotnet_play\ConsoleApp1\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.AssemblyInfoInputs.cache
+D:\work\dotnet_play\ConsoleApp1\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.AssemblyInfo.cs
+D:\work\dotnet_play\ConsoleApp1\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.csproj.CopyComplete
+D:\work\dotnet_play\ConsoleApp1\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.dll
+D:\work\dotnet_play\ConsoleApp1\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.pdb

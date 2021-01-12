@@ -1,0 +1,17 @@
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\StyleBuilder.Tests.deps.json
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\StyleBuilder.Tests.runtimeconfig.json
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\StyleBuilder.Tests.runtimeconfig.dev.json
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\StyleBuilder.Tests.dll
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\StyleBuilder.Tests.pdb
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\StyleBuilder.dll
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\bin\Debug\netcoreapp2.1\StyleBuilder.pdb
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\obj\Debug\netcoreapp2.1\StyleBuilder.Tests.csprojAssemblyReference.cache
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\obj\Debug\netcoreapp2.1\StyleBuilder.Tests.csproj.CoreCompileInputs.cache
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\obj\Debug\netcoreapp2.1\StyleBuilder.Tests.AssemblyInfoInputs.cache
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\obj\Debug\netcoreapp2.1\StyleBuilder.Tests.AssemblyInfo.cs
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\obj\Debug\netcoreapp2.1\StyleBuilder.Tests.csproj.CopyComplete
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\obj\Debug\netcoreapp2.1\StyleBuilder.Tests.dll
+D:\work\dotnet_play\StyleBuilder\StyleBuilder.Tests\obj\Debug\netcoreapp2.1\StyleBuilder.Tests.pdb
